@@ -1,0 +1,124 @@
+{
+  "Account" : {
+    "user1" : {
+      "email" : "dotantai3280@gmail.com",
+      "password" : 123456789,
+      "username" : "taido"
+    },
+    "user2" : {
+      "email" : "tainnps19064@fpt.edu.vn",
+      "password" : 123456789,
+      "username" : "nhutai"
+    },
+    "user3" : {
+      "email" : "dominhluat2002@gmail.com",
+      "password" : 123456789,
+      "username" : "minhluat"
+    },
+    "user4" : {
+      "email" : "chungntps17299@fpt.edu.vn",
+      "password" : 123456789,
+      "username" : "tuanchung"
+    }
+  },
+  "Products" : {
+    "pro1" : {
+      "category" : "clothing",
+      "description" : "High quality, durable, beautiful, very smooth cotton material.",
+      "images" : "img/product/product-2.jpg",
+      "name" : "Brown jacket",
+      "price" : 139.99
+    },
+    "pro10" : {
+      "category" : "accessories",
+      "description" : "Cool scent, light fragrance, suitable for weddings and offices",
+      "images" : "img/product/product-10.jpg",
+      "name" : "perfume",
+      "price" : "43.48"
+    },
+    "pro11" : {
+      "category" : "bag",
+      "description" : "Can carry books, clothes and laptops, very suitable for work, study",
+      "images" : "img/product/product-11.jpg",
+      "name" : "White BackPack",
+      "price" : "60.9"
+    },
+    "pro12" : {
+      "category" : "clothing",
+      "description" : "Anti-cold, trendy style, suitable for photography",
+      "images" : "img/product/product-12.jpg",
+      "name" : "Army style sweatshirt",
+      "price" : 280
+    },
+    "pro13" : {
+      "category" : "bag",
+      "description" : "Durable, lightweight, suitable for business travel",
+      "images" : "img/product/product-13.jpg",
+      "name" : "office briefcase",
+      "price" : "49.66"
+    },
+    "pro14" : {
+      "category" : "accessories",
+      "description" : "sunglasses, suitable for travel, photography",
+      "images" : "img/product/product-14.jpg",
+      "name" : "Square Glasses",
+      "price" : "26.28"
+    },
+    "pro2" : {
+      "category" : "shoes",
+      "description" : "High quality cotton material, durable, extremely soft, very waterproof.",
+      "images" : "img/product/product-1.jpg",
+      "name" : "Brown Shoes",
+      "price" : "50.24"
+    },
+    "pro3" : {
+      "category" : "shoes",
+      "description" : "High quality cotton material, durable, extremely soft, very waterproof.",
+      "images" : "img/product/product-3.jpg",
+      "name" : "Black Shoes",
+      "price" : "43.48"
+    },
+    "pro4" : {
+      "category" : "clothing",
+      "description" : "High quality cotton material, durable, extremely soft, very waterproof.",
+      "images" : "img/product/product-4.jpg",
+      "name" : "Brown sweater",
+      "price" : "60.9"
+    },
+    "pro5" : {
+      "category" : "clothing",
+      "description" : "High quality cotton material, durable, extremely soft, very waterproof.",
+      "images" : "img/product/product-5.jpg",
+      "name" : "Black White T-shirt",
+      "price" : "31.37"
+    },
+    "pro6" : {
+      "category" : "accessories",
+      "description" : "High quality cotton material, durable, extremely soft, very waterproof.",
+      "images" : "img/product/product-6.jpg",
+      "name" : "Gray Towel",
+      "price" : 151.33
+    },
+    "pro7" : {
+      "category" : "bag",
+      "description" : "High quality cotton material, durable, extremely soft, very waterproof.",
+      "images" : "img/product/product-7.jpg",
+      "name" : "Brown BackPack",
+      "price" : "49.66"
+    },
+    "pro8" : {
+      "category" : "clothing",
+      "description" : "High quality cotton material, durable, extremely soft, very waterproof.",
+      "images" : "img/product/product-8.jpg",
+      "name" : "Polo autumn",
+      "price" : "26.28"
+    },
+    "pro9" : {
+      "category" : "clothing",
+      "description" : "High quality cotton material, durable, extremely soft, very waterproof.",
+      "images" : "img/product/product-9.jpg",
+      "name" : "Polo flowers",
+      "price" : "320.66"
+    }
+  }
+}
